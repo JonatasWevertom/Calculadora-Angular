@@ -4,4 +4,4 @@ Este projeto foi gerado com [Angular CLI] (https://github.com/angular/angular-cl
 
 ## Servidor de desenvolvimento
 
-Execute `ng serve` para um servidor de desenvolvimento. Navegue até `http: // localhost: 4200 /`. O aplicativo será recarregado automaticamente se você alterar qualquer um dos arquivos de origem.
+Execute `npm install` para instalar as dependencias e em seguida `ng serve` para um servidor de desenvolvimento. Navegue até `http: // localhost: 4200 /`. O aplicativo será recarregado automaticamente se você alterar qualquer um dos arquivos de origem.
